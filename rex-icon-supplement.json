@@ -1,6 +1,6 @@
 {
   "name": "守岸人补充图标库",
-  "description": "Rex 订阅补充库：Paramount+、HBO Max、ViuTV、芒果TV，补良友库里挂掉的图。更新时间：2026-11-20",
+  "description": "Rex 订阅补充库：Paramount+、HBO Max、ViuTV、芒果TV、Disney+、Apple TV+，补良友库里挂掉的图。更新时间：2026-11-20",
   "icons": [
     {
       "name": "Paramount+",
@@ -19,16 +19,36 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_Max_Logo_RGB_Iridescent_White.webp?width=800"
     },
     {
+      "name": "HBO Max-渐变",
+      "url": "https://raw.githubusercontent.com/qq1840083132/rex-icon-library/main/hbomax-gradient.png"
+    },
+    {
       "name": "ViuTV",
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ViuTV_logo.svg?width=800"
     },
     {
       "name": "芒果TV",
-      "url": "https://zh.wikipedia.org/wiki/Special:FilePath/Mango_TV_logo.svg?width=800"
+      "url": "https://raw.githubusercontent.com/qq1840083132/rex-icon-library/main/mangotv-white.png"
     },
     {
       "name": "芒果tv",
-      "url": "https://zh.wikipedia.org/wiki/Special:FilePath/Mango_TV_logo.svg?width=800"
+      "url": "https://raw.githubusercontent.com/qq1840083132/rex-icon-library/main/mangotv-white.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Disney%2B_2024.svg?width=1000"
+    },
+    {
+      "name": "迪士尼+",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Disney%2B_2024.svg?width=1000"
+    },
+    {
+      "name": "Apple TV+",
+      "url": "https://raw.githubusercontent.com/qq1840083132/rex-icon-library/main/appletvplus-white.png"
+    },
+    {
+      "name": "Apple TV Plus",
+      "url": "https://raw.githubusercontent.com/qq1840083132/rex-icon-library/main/appletvplus-white.png"
     }
   ]
 }
