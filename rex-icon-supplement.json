@@ -1,0 +1,34 @@
+{
+  "name": "守岸人补充图标库",
+  "description": "Rex 订阅补充库：Paramount+、HBO Max、ViuTV、芒果TV，补良友库里挂掉的图。更新时间：2026-11-20",
+  "icons": [
+    {
+      "name": "Paramount+",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramount%2B_logo.svg?width=800"
+    },
+    {
+      "name": "派拉蒙+",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramount%2B_logo.svg?width=800"
+    },
+    {
+      "name": "HBO Max",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_Max_%282025%29.svg?width=800"
+    },
+    {
+      "name": "HBO Max-白",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_Max_Logo_RGB_Iridescent_White.webp?width=800"
+    },
+    {
+      "name": "ViuTV",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ViuTV_logo.svg?width=800"
+    },
+    {
+      "name": "芒果TV",
+      "url": "https://zh.wikipedia.org/wiki/Special:FilePath/Mango_TV_logo.svg?width=800"
+    },
+    {
+      "name": "芒果tv",
+      "url": "https://zh.wikipedia.org/wiki/Special:FilePath/Mango_TV_logo.svg?width=800"
+    }
+  ]
+}
