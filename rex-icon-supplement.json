@@ -1,6 +1,6 @@
 {
   "name": "守岸人补充图标库",
-  "description": "Rex 订阅补充库：Paramount+、HBO Max、ViuTV、芒果TV、Disney+、Apple TV+、Netflix，补良友库里挂掉的图。更新时间：2026-11-20",
+  "description": "Rex 订阅补充库：Paramount+、HBO Max、ViuTV、芒果TV、Disney+、Apple TV+、Netflix、优酷、LINE TV，补良友库里挂掉的图。更新时间：2026-11-20",
   "icons": [
     {
       "name": "Paramount+",
@@ -57,6 +57,18 @@
     {
       "name": "奈飞",
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_2015_logo.svg?width=1000"
+    },
+    {
+      "name": "Youku",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Youku_Global_logo_%28Thu%2C_21_Mar_2024%29.svg?width=1000"
+    },
+    {
+      "name": "优酷",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Youku_Global_logo_%28Thu%2C_21_Mar_2024%29.svg?width=1000"
+    },
+    {
+      "name": "LINE TV",
+      "url": "https://raw.githubusercontent.com/qq1840083132/rex-icon-library/main/linetv.png"
     }
   ]
 }
